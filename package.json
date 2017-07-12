@@ -2,10 +2,10 @@
   "name": "beat_taste",
   "version": "1.0.0",
   "description": "beat taste",
-  "main": "circles.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node circles.js"
+    "start": "node app.js"
   },
   "author": "Yubo",
   "license": "ISC",
